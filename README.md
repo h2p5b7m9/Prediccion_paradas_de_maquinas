@@ -90,12 +90,19 @@ Estos resultados lo convierten en el mejor modelo para detectar la mayoría de f
 
 ## Estructura del proyecto
 📁 proyecto_fallos_maq
+
 ├── sensores_01.csv # Dataset de sensores con fallos
+
 ├── cargar_datos.py # Carga de datos y división en train/test
+
 ├── data_preprocessing.py # Preprocesamiento de datos 
+
 ├── model_training.py # Entrenamiento del modelo y pipelines
+
 ├── logisticRegression_fallos.pkl # Modelo entrenado guardado
+
 ├── app.py # Aplicación en Streamlit para uso del modelo
+
 └── README.md # Documentación del proyecto
 
 ## Ejecución Local
