@@ -115,5 +115,5 @@ streamlit run app.py
 
 ## Autor
 
-**Ignacio Macipe**
+**Ignacio Macipe**  
 Grado Superior en desarrollo de aplicaciones web | Ciencia de Datos | Consultor host
