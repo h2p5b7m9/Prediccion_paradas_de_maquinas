@@ -5,7 +5,7 @@ import pickle as pkl
 from sklearn.linear_model import LogisticRegression
 
 # Cargar el modelo entrenado
-with open('logisticRegression_fallos.pkl', 'rb') as file: # Se crea en Predicción_automática_de_fallos_mediante_datos_de_sensores.ipynb
+with open('05_models/logisticRegression_fallos.pkl', 'rb') as file: # Se crea en Predicción_automática_de_fallos_mediante_datos_de_sensores.ipynb
     model = pkl.load(file)
     
 # Interfaz de usuario con Streamlit
